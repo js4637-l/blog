@@ -9,3 +9,6 @@ Personal development log — notes, findings, and ongoing work.
 - Resolved deprecation warnings
 - Ran linter, applied auto-fixes
 - Fixed off-by-one error in loop
+
+## 2026-03-23
+- Added basic retry logic for network requests
