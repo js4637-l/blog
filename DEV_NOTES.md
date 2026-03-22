@@ -21,3 +21,7 @@ Personal development log — notes, findings, and ongoing work.
 - Updated license year
 - Improved error handling in edge cases
 - Reviewed open issues, added labels
+
+## 2026-03-23
+- Reviewed codebase, identified areas for improvement
+- Added CONTRIBUTING.md stub
